@@ -1,3 +1,8 @@
+# NOTE -- DEPRECATED -- NOTE
+
+Since the creation of this project, "Proxmox Backup Server" has been released which should suite most use cases better. 
+If you feel there is a need to keep this updated, please feel free to reach out or to fork it your self
+
 # Proxmox Encrypted Remote Backup
 
 ## What is it?
